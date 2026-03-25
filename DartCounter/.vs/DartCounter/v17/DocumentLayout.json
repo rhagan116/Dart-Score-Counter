@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\!Uni work\\Year 2\\Advanced programming\\Tutorials\\DartCounter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB168666-A757-43F7-B0A9-16B1AAC98123}|DartCounter\\DartCounter.csproj|g:\\!uni work\\year 2\\advanced programming\\tutorials\\dartcounter\\dartcounter\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB168666-A757-43F7-B0A9-16B1AAC98123}|DartCounter\\DartCounter.csproj|solutionrelative:dartcounter\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB168666-A757-43F7-B0A9-16B1AAC98123}|DartCounter\\DartCounter.csproj|g:\\!uni work\\year 2\\advanced programming\\tutorials\\dartcounter\\dartcounter\\getscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB168666-A757-43F7-B0A9-16B1AAC98123}|DartCounter\\DartCounter.csproj|solutionrelative:dartcounter\\getscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB168666-A757-43F7-B0A9-16B1AAC98123}|DartCounter\\DartCounter.csproj|g:\\!uni work\\year 2\\advanced programming\\tutorials\\dartcounter\\dartcounter\\getnum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB168666-A757-43F7-B0A9-16B1AAC98123}|DartCounter\\DartCounter.csproj|solutionrelative:dartcounter\\getnum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "getScore.cs",
+              "DocumentMoniker": "G:\\!Uni work\\Year 2\\Advanced programming\\Tutorials\\DartCounter\\DartCounter\\getScore.cs",
+              "RelativeDocumentMoniker": "DartCounter\\getScore.cs",
+              "ToolTip": "G:\\!Uni work\\Year 2\\Advanced programming\\Tutorials\\DartCounter\\DartCounter\\getScore.cs",
+              "RelativeToolTip": "DartCounter\\getScore.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wCAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T17:40:19.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "getNum.cs",
+              "DocumentMoniker": "G:\\!Uni work\\Year 2\\Advanced programming\\Tutorials\\DartCounter\\DartCounter\\getNum.cs",
+              "RelativeDocumentMoniker": "DartCounter\\getNum.cs",
+              "ToolTip": "G:\\!Uni work\\Year 2\\Advanced programming\\Tutorials\\DartCounter\\DartCounter\\getNum.cs",
+              "RelativeToolTip": "DartCounter\\getNum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T16:47:23.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cs",
+              "DocumentMoniker": "G:\\!Uni work\\Year 2\\Advanced programming\\Tutorials\\DartCounter\\DartCounter\\Main.cs",
+              "RelativeDocumentMoniker": "DartCounter\\Main.cs",
+              "ToolTip": "G:\\!Uni work\\Year 2\\Advanced programming\\Tutorials\\DartCounter\\DartCounter\\Main.cs",
+              "RelativeToolTip": "DartCounter\\Main.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAkwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T17:39:25.477Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
